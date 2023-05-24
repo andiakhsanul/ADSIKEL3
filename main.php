@@ -90,5 +90,5 @@ foreach ($dt_barang->getBarang() as $barang) {
 
 
 
-echo"hamid";
+echo"diva";
 ?>
