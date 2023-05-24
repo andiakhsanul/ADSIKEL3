@@ -87,4 +87,8 @@ foreach ($dt_barang->getBarang() as $barang) {
         echo "====================================\n";
     }
 }
+
+
+
+echo"hamid";
 ?>
